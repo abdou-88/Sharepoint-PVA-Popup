@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="PowerVirtualAgentsHost"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="651e5ed0-c115-4301-beca-b36a6678d7bb"
+        ClientSideComponentProperties="{&quot;botId&quot;: &quot;4c9a6cd1-626f-46c9-967e-a21d6157083c&quot;,&quot;botFriendlyName&quot;: &quot;Catalent Bot&quot;,&quot;buttonLabel&quot;: &quot; &quot;,&quot;tenantId&quot;: &quot;72b17115-9915-42c0-9f1b-4f98e5a4bcd2&quot;,&quot;botAvatarImage&quot;: &quot;https://your-bot-avatar-image-url&quot;,&quot;botAvatarInitials&quot;: &quot;CB&quot;,&quot;greet&quot;: true}">
+    </CustomAction>
+</Elements>

@@ -1,0 +1,27 @@
+.chatbot {
+  position:fixed;
+  right:30px;
+  bottom:20px;
+
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.chatbot button {
+    width:70px;
+    height:75px;
+
+    background: url("../img/abibot.png") no-repeat scroll 0 0 transparent;
+    //border-radius: 50%;
+    transition-duration: 0.4s;
+    border-style: none;
+    background-size: 100%;
+
+}
+
+.chatbot button:hover {
+  background: url("../img/abibotinactive.png") no-repeat scroll 0 0 transparent;
+  color: transparent;
+
+  background-size: 100%;
+
+}
